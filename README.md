@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Danielle-Higgins
-- 👀 I’m interested in Software Engineering, Web Development, and Quality Assurance
-- 🌱 I’m currently learning Front End and Back End development
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: https://www.linkedin.com/in/danielle-higgins-8bb7ba1a6
+### Hi there 👋
 
-<!---
-Danielle-Higgins/Danielle-Higgins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Danielle and I'm from the US. I’m a Computer Science graduate passionate about Software Engineering. I really enjoy learning about the web and how different pieces of software work. I like keeping up with the different tech stacks that are out there and I love building fully responsive Full-Stack Web Applications. My journey began with a love for video games and watching my father fix computers, sparking my curiosity in software. I thrive on continuous learning and tackling new challenges!
