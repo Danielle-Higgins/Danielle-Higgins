@@ -36,9 +36,9 @@ I'm Danielle and I'm from the East Coast. I’m a Computer Science graduate pass
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danielle-Higgins&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danielle-Higgins&theme=dark&hide_border=false">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielle-Higgins&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Danielle-Higgins&theme=dark&hide_border=false">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Danielle-Higgins&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielle-Higgins&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
 
 ---
