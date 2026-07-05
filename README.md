@@ -9,8 +9,6 @@
 
 <p>My journey into tech began with a love for video games and watching my stepfather repair computers, sparking my curiosity about software development. Since then, continuous learning and a passion for innovation have driven my work.</p>
 
-<p>Beyond the keyboard, you’ll find me exploring new destinations, diving into captivating anime, or leveling up in the gaming world. Whether it's collaborating on exciting projects or simply connecting with like-minded professionals, I'm always open to new opportunities and conversations.</p>
-
 <p>Excited to collaborate with like-minded professionals on projects that push boundaries. Let’s build something impactful!</p>
 
 <h2 align="center">💻 Languages and Tools</h2>
