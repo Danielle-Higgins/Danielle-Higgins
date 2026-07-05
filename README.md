@@ -1,14 +1,8 @@
-![I am a Software Engineer](https://github.com/Danielle-Higgins/Danielle-Higgins/blob/main/Danielle%20Banner.png)
+![I am a Software Engineer]
 
 <p align="center">
-  <a href="https://danihiggins.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=Portfolio&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
   <a href="https://linkedin.com/in/danihiggins" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://x.com/dannihigginz" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white">
   </a>
 </p>
 
